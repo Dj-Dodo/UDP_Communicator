@@ -1,1 +1,1 @@
-# UDP_Communicator
+Druhé zadanie z predmetu Počítačové a Komunikačné Siete
